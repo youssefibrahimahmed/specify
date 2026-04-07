@@ -1053,7 +1053,7 @@ button:hover {
 .testmioals .container .track .box {
   position: relative;
   margin-top: 50px;
-  width: 3%;
+  width: 450px;
   align-items: center;
   gap: 10px;
   border: 1px solid rgba(180, 175, 175, 0.3);

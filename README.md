@@ -4,7 +4,7 @@ A modern and responsive landing page built to showcase the **Specify** project w
 
 ## 🌐 Live Demo
 
-👉 https://specify-langingpage.netlify.app/
+👉[ https://specify-langingpage.netlify.app/](https://specify-6u4ivzpkj-youssefalhares2-5045s-projects.vercel.app/)
 
 ---
 
